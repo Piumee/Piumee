@@ -51,7 +51,7 @@
 - 🔗 [**Race Strategy Optimiser**](https://github.com/Piumee/race-strategy-optimiser) – Java-based simulation engine for race strategy recommendation  
 
 ---
-📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/piumee-senevirathne-299a07108/)**  
+
 🌏 Based in Adelaide, Australia
 ### 🎯 Let’s build something great together!
 
