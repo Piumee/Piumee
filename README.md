@@ -22,7 +22,7 @@
 ---
 
 - 🎓 Master’s in Information Technology – Flinders University  
-- 💻 Over 6 years of experience in software development across Sri Lanka and Australia  
+- 💻 Over 7 years of experience in software development  
 - 🚀 Currently exploring .NET 8, React.js 19, Azure DevOps & scalable backend systems  
 - 🧠 Always curious about clean code, system design, and automation pipelines  
 - 📫 Let’s collaborate on innovative projects and contribute to the tech ecosystem!  
