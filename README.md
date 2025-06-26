@@ -47,7 +47,7 @@
 
 ## 🔧 Featured Projects:
 
-- 🔗 [**Fringe-Demo**](https://github.com/Piumee/Fringe-Demo) – ASP.NET Core 8 & React.js 19 event booking platform  
+- 🔗 [**AdelaideFringe-Backend**](https://github.com/Piumee/Fringe-Demo) – ASP.NET Core 8 & React.js 19 event booking platform  
 - 🔗 [**Race Strategy Optimiser**](https://github.com/Piumee/race-strategy-optimiser) – Java-based simulation engine for race strategy recommendation  
 
 ---
