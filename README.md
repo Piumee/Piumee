@@ -34,7 +34,7 @@
 <img height=30 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img height=30 src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
 <img height=30 src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img height=30 src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img height=30 src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 <img height=30 src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 <img height=30 src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white">
 <img height=30 src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
