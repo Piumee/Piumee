@@ -79,10 +79,7 @@
 
 ---
 
-## 🔧 Featured Projects:
 
-- 🔗 [**AdelaideFringe-Backend**](https://github.com/Piumee/AdelaideFringe-Backend) – C# and .NET Core 8 event booking platform backend
-- 🔗 [**Race Strategy Optimiser**](https://github.com/Piumee/race-strategy-optimiser) – Java-based simulation engine for race strategy recommendation  
 
 ---
 
